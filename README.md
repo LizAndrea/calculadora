@@ -1,12 +1,12 @@
-# calculadora
+# Calculadora
 Calculadora con reconocimiento de voz, usando la web speech API
 
-#requisitos
+# Requisitos
 1. Asegúrate de que tu navegador soporte la Web Speech API: La Web Speech API está soportada en la mayoría de los navegadores modernos, pero asegúrate de que tu navegador la soporte.
 2. Permisos de micrófono: Asegúrate de que tu navegador tenga permisos para acceder al micrófono.
 3. Prueba la funcionalidad: Abre tu proyecto en el navegador y prueba el botón de reconocimiento de voz para asegurarte de que funciona correctamente.
 
-# probar la aplicacion
+# Probar la aplicacion
 Para levantar tu proyecto en un navegador, sigue estos pasos:
 
 1. Navega a tu directorio donde está guardado tu proyecto.
